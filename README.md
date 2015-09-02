@@ -12,6 +12,8 @@ Section Links : [Construction](#construction) , [Execution](#execution) , [Examp
 
 # Construction
 
+[![Join the chat at https://gitter.im/panchishin/boosting](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/panchishin/boosting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Boosting constructor
 Boosting is created like so:
 ```js
